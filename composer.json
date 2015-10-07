@@ -20,6 +20,12 @@
             "email": "guilherme@gpsanches.com",
             "homepage": "http://www.gpsanches.com/",
             "role": "Packager"
+        },
+        {
+            "name": "Murilo Santiago",
+            "email": "muriloacs@yahoo.com.br",
+            "homepage": "http://www.muriloamaral.com/",
+            "role": "Packager"
         }
     ],
     "autoload": {
