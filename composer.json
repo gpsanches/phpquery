@@ -5,6 +5,6 @@
     "keywords": ["phpquery"],
     "homepage": "https://github.com/TobiaszCudnik/phpquery",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4"
     }
 }
